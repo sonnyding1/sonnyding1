@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋 Welcome to Sonny's repo!
 
-<!--
-**sonnyding1/sonnyding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on [Interactive Math Web App](https://github.com/sonnyding1/interactive-math-web-app)
+- 🌱 I’m currently learning basics of machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 👨‍💻 Python, Typescript, Javascript, C++, Java, Verilog
+- 🛠️ Git, Linux, HTML5/CSS3, Tailwind CSS
+- 🌐 React, Express.js, Next.js, MongoDB, Prisma
+- ⚙️ Django, Three.js, SKLearn, Pandas, Matplotlib
+- 🎮 Godot, Unity
+- 🖥️ VirtualBox, LaTeX
+- 💬 English, Chinese, Japanese
+
+## Contact
+
+- sonnyding20@gmail.com
