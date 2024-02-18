@@ -18,3 +18,5 @@
 ## Contact
 
 - sonnyding20@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyding1&layout=compact" />
