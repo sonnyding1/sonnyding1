@@ -13,10 +13,8 @@
 - 🌐 HTML5/CSS3, Tailwind CSS, React, Express.js, Next.js, MongoDB, Prisma
 - ⚙️ Django, Three.js, SKLearn, Pandas, Matplotlib
 - 🎮 Godot, Unity
-- 💬 English, Chinese, Japanese
 
-## Contact
-
-- sonnyding20@gmail.com
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyding1&layout=compact" />
+<div align="center"> 
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sonnyding1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyding1&layout=compact" />
+</div>
