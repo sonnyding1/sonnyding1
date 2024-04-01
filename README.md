@@ -8,10 +8,35 @@
 
 ## Skills
 
-- 👨‍💻 Python, Typescript, Javascript, C++, Java, Verilog
+### Languages 👨‍💻
+
+<a href="https://www.python.org/" target="__blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://www.typescriptlang.org/" target="__blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://cplusplus.com/" target="__blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+
+### Web 🌐
+
+<a href="https://en.wikipedia.org/wiki/HTML" target="__blank"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="__blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://tailwindcss.com/" target="__blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://react.dev/" target="__blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://expressjs.com/" target="__blank"><img alt="ExpressJS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a href="https://nextjs.org/" target="__blank"><img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="__blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://www.prisma.io/" target="__blank"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/></a>
+<a href="https://threejs.org/" target="__blank"><img alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/></a>
+<a href="https://www.djangoproject.com/" target="__blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
+<a href="https://flask.palletsprojects.com/" target="__blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+
+### Machine Learning 🤖
+
+<a href="https://scikit-learn.org/stable/" target="__blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+<a href="https://pandas.pydata.org/" target="__blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://numpy.org/" target="__blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+
+
 - 🛠️ Git, Linux, VirtualBox, LaTeX
-- 🌐 HTML5/CSS3, Tailwind CSS, React, Express.js, Next.js, MongoDB, Prisma
-- ⚙️ Django, Three.js, SKLearn, Pandas, Matplotlib
 - 🎮 Godot, Unity
 
 <div align="center"> 
