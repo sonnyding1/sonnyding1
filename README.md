@@ -35,9 +35,17 @@
 <a href="https://pandas.pydata.org/" target="__blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a href="https://numpy.org/" target="__blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 
+### Tools 🛠️
 
-- 🛠️ Git, Linux, VirtualBox, LaTeX
-- 🎮 Godot, Unity
+<a href="https://git-scm.com/" target="__blank"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://www.gnu.org/software/bash/" target="__blank"><img alt="GNUBash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
+<a href="https://www.latex-project.org/" target="__blank"><img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
+<a href="https://www.virtualbox.org/" target="__blank"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></a>
+<a href="https://godotengine.org/" target="__blank"><img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/></a>
+<a href="https://unity.com/" target="__blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
+<a href="https://www.arduino.cc/" target="__blank"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+
+
 
 <div align="center"> 
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sonnyding1&show_icons=true&include_all_commits=true&count_private=true"/>
