@@ -20,6 +20,9 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="__blank"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="__blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://tailwindcss.com/" target="__blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://ui.shadcn.com/" target="__blank"><img alt="ShadCN" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/></a>
+<a href="https://mui.com/material-ui/" target="__blank"><img alt="MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></a>
+<a href="https://nodejs.org/en" target="__blank"><img alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 <a href="https://react.dev/" target="__blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="https://expressjs.com/" target="__blank"><img alt="ExpressJS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 <a href="https://nextjs.org/" target="__blank"><img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
