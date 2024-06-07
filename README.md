@@ -3,7 +3,7 @@
 ## About me
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on [Interactive Math Web App](https://github.com/sonnyding1/interactive-math-web-app)
+- 🔭 I’m currently working on [Egg Editor](https://github.com/sonnyding1/CS35L-Egg)
 - 🌱 I’m currently learning basics of machine learning
 
 ## Skills
