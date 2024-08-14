@@ -17,10 +17,19 @@
 <a href="https://cplusplus.com/" target="__blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=py, js, ts, cpp)](https://skillicons.dev)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,java)](https://skillicons.dev)
+-->
+
+<a href="https://www.python.org/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:50px;height:auto;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:50px;height:auto;"/></a>
+<a href="https://www.typescriptlang.org/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:50px;height:auto;"/></a>
+<a href="https://cplusplus.com/" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:50px;height:auto;"/></a>
+
 
 ### Web 🌐
 
+<!--
 <a href="https://en.wikipedia.org/wiki/HTML" target="__blank"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="__blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://tailwindcss.com/" target="__blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
@@ -36,6 +45,9 @@
 <a href="https://threejs.org/" target="__blank"><img alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/></a>
 <a href="https://www.djangoproject.com/" target="__blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
 <a href="https://flask.palletsprojects.com/" target="__blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,nodejs,react,vue,express,next,mongodb,prisma,threejs,django,flask)](https://skillicons.dev)
 
 ### Machine Learning 🤖
 
