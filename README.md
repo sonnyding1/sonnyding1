@@ -10,10 +10,14 @@
 
 ### Languages 👨‍💻
 
+<!--
 <a href="https://www.python.org/" target="__blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href="https://www.typescriptlang.org/" target="__blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="https://cplusplus.com/" target="__blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=py, js, ts, cpp)](https://skillicons.dev)
 
 ### Web 🌐
 
