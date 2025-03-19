@@ -1,10 +1,4 @@
-# Hi there 👋 Welcome to Sonny's repo!
-
-## About me
-
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on [Egg Editor](https://github.com/sonnyding1/CS35L-Egg)
-- 🌱 I’m currently learning basics of machine learning
+# I use vim btw 🤓
 
 ## Skills
 
