@@ -21,12 +21,14 @@
 ## My tech setup
 
 <a href="https://www.gnu.org/software/bash/" target="__blank"><img alt="GNUBash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
-<a href="https://aws.amazon.com/" target="__blank"><img alt="GNUBash" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/MacOS" target="__blank"><img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="__blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+<a href="https://www.debian.org/" target="__blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+<a href="https://aws.amazon.com/" target="__blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a href="https://github.com/tmux/tmux/wiki" target="__blank"><img alt="Tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
 <a href="https://www.latex-project.org/" target="__blank"><img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
+<a href="https://neovim.io/" target="__blank"><img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 <a href="https://www.virtualbox.org/" target="__blank"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></a>
-<a href="https://godotengine.org/" target="__blank"><img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/></a>
-<a href="https://unity.com/" target="__blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
-<a href="https://www.arduino.cc/" target="__blank"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
 
 
 
