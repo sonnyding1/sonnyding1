@@ -23,7 +23,7 @@
 <a href="https://www.gnu.org/software/bash/" target="__blank"><img alt="GNUBash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/MacOS" target="__blank"><img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="__blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a href="https://www.debian.org/" target="__blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+<a href="https://archlinux.org/" target="__blank"><img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>
 <a href="https://aws.amazon.com/" target="__blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 <a href="https://github.com/tmux/tmux/wiki" target="__blank"><img alt="Tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
 <a href="https://www.latex-project.org/" target="__blank"><img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
