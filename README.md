@@ -1,4 +1,4 @@
-# I use vim btw ☝️🤓
+# I use Arch Linux and Vim btw ☝️🤓
 
 ## Languages
 
